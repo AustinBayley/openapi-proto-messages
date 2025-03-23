@@ -1,5 +1,5 @@
 version: v1
-name: buf.build/
+name: buf.build/AustinBayley/ctrader
 breaking:
   use:
     - FILE
